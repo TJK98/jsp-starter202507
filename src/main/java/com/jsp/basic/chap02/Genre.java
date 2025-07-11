@@ -1,4 +1,4 @@
-package com.jsp.basic.chpa02;
+package com.jsp.basic.chap02;
 
 public enum Genre {
     HIPHOP, STREET, KPOP

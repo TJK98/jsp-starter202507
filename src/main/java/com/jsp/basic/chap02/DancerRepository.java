@@ -1,9 +1,5 @@
 package com.jsp.basic.chap02;
 
-import com.jsp.basic.chpa02.DanceLevel;
-import com.jsp.basic.chpa02.Dancer;
-import com.jsp.basic.chpa02.Genre;
-
 import java.util.ArrayList;
 import java.util.List;
 

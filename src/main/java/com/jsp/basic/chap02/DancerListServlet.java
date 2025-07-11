@@ -1,6 +1,4 @@
-package com.jsp.basic.chpa02;
-
-import com.jsp.basic.chap02.DancerRepository;
+package com.jsp.basic.chap02;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
